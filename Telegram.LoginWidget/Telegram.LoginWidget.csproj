@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <Authors>Igor Bruev (jaktenstid1@gmail.com)</Authors>
+        <Description>Telegram login using Widget or miniapps</Description>
+        <RepositoryUrl>https://github.com/JaktensTid/Telegram.Login.git</RepositoryUrl>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Content Include="..\README.md">
+        <Link>README.md</Link>
+      </Content>
+    </ItemGroup>
+
+</Project>
