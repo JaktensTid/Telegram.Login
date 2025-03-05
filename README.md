@@ -21,3 +21,9 @@ Assert.AreEqual(result, AuthResult.Success);
 ```
 
 Documentation - https://core.telegram.org/bots/webapps#webappinitdata
+
+#### Install
+
+```csharp
+dotnet add package Telegram.LoginWidgetAndMiniApps
+```

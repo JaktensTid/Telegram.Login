@@ -7,6 +7,7 @@
         <Authors>Igor Bruev (jaktenstid1@gmail.com)</Authors>
         <Description>Telegram login using Widget or miniapps</Description>
         <RepositoryUrl>https://github.com/JaktensTid/Telegram.Login.git</RepositoryUrl>
+        <PackageId>Telegram.LoginWidgetAndMiniApps</PackageId>
     </PropertyGroup>
 
     <ItemGroup>
